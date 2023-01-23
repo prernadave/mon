@@ -1,0 +1,119 @@
+[
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220905/uGoF/6315e98baeb269dbb36b7583/-1117Wx1400H-441142939-yellow-MODEL.jpg",
+    "brand": "Akshara",
+    "product": "Yellow Shirt",
+    "gender": "kids",
+    "category": "shirt",
+    "price": 500,
+    "strikedOffPrice": 700
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221230/UHlf/63aec543f997ddfdbd049238/-1117Wx1400H-441273591-fieryred-MODEL.jpg",
+    "brand": "PINK N BLUE",
+    "product": "Typographic Print Round-Neck T-Shirt",
+    "gender": "kids",
+    "category": "t-shirt",
+    "price": 79,
+    "strikedOffPrice": 124
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220906/H8DC/631764c3f997dd1f8de780dd/-1117Wx1400H-441273596-peach-MODEL.jpg",
+    "brand": "LOFER",
+    "product": "Peachy vibes t-shirt",
+    "gender": "kids",
+    "category": "t-shirt",
+    "price": 121,
+    "strikedOffPrice": 250
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220825/UDuo/6306a3baf997dd394c1fcd5e/-473Wx593H-464879426-multi-MODEL.jpg",
+    "brand": "KUCHIPOO",
+    "product": "Pack of 5 Typographic Print Crew-Neck T-shirts",
+    "gender": "kids",
+    "category": "t-shirt",
+    "price": 800,
+    "strikedOffPrice": 1000
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220810/dTrm/62f359e1aeb26921afda6311/-1117Wx1400H-464192671-burgundy-MODEL.jpg",
+    "brand": "PINK CHICK",
+    "product": "Embellished Fit & Flare Dress",
+    "gender": "kids",
+    "category": "dress",
+    "price": 2340,
+    "strikedOffPrice": 3500
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220504/fr7G/62729065aeb26921af54bcbf/-1117Wx1400H-441143473-lilac-MODEL.jpg",
+    "brand": "INF FRENDZ",
+    "product": "Embellished Flared Dress",
+    "gender": "kids",
+    "category": "dress",
+    "price": 450,
+    "strikedOffPrice": 600
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221225/K4xj/63a7dc38f997ddfdbdf56934/-1117Wx1400H-465457904-magenta-MODEL.jpg",
+    "brand": "TIOR",
+    "product": "Round-Neck Fit & Flare Dress",
+    "gender": "kids",
+    "category": "dress",
+    "price": 585,
+    "strikedOffPrice": 800
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220530/yPYx/6294b42cf997dd03e245f47b/-1117Wx1400H-441138348-blue-MODEL.jpg",
+    "brand": "KG FRENDZ",
+    "product": "Fit & Flare Dress with Floral Applique",
+    "gender": "kids",
+    "category": "dress",
+    "price": 500,
+    "strikedOffPrice": 600
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220222/zh3F/62150548aeb26921afad7d2c/-1117Wx1400H-441137476-navyblue-MODEL.jpg",
+    "brand": "KG FRENDZ",
+    "product": "Fit & Flare Tulle Dress with Floral Applique",
+    "gender": "kids",
+    "category": "dress",
+    "price": 315,
+    "strikedOffPrice": 500
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220718/cfRN/62d57c8af997dd03e2dbfb6c/-1117Wx1400H-441142592-navyblue-MODEL.jpg",
+    "brand": "KG FRENDZ",
+    "product": "Printed Tulle Fit & Flare Dress with Belt",
+    "gender": "kids",
+    "category": "dress",
+    "price": 450,
+    "strikedOffPrice": 600
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220429/Q6lw/626c1dd0aeb26921af4c7069/-1117Wx1400H-441141096-ltpink-MODEL.jpg",
+    "brand": "KG FRENDZ",
+    "product": "Floral Print Fit & Flare Dress with Bow",
+    "gender": "kids",
+    "category": "dress",
+    "price": 250,
+    "strikedOffPrice": 500
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20211210/fDbC/61b27ee0f997ddf8f14ac540/-1117Wx1400H-441132139-skyblue-MODEL.jpg",
+    "brand": "KG FRENDZ",
+    "product": "Floral Embellished Fit & Flare Dress with Waist Tie-Up",
+    "gender": "kids",
+    "category": "dress",
+    "price": 300,
+    "strikedOffPrice": 500
+  },
+  {
+    "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220114/D3zn/61e08d46aeb2695cdd141f9b/-1117Wx1400H-463654377-black-MODEL.jpg",
+    "brand": "AARIKA GIRLS ETHNIC",
+    "product": "Indian Fit and Flare Dress",
+    "gender": "kids",
+    "category": "dress",
+    "price": 442,
+    "strikedOffPrice": 680
+  }
+]
